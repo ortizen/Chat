@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flash_chat/components/rounded_button.dart';
+import 'package:flutter/material.dart';
 
 class WelcomeScreen extends StatefulWidget {
   @override
@@ -24,9 +24,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
     controller.addListener(() {
       setState(() {});
     });
-    animation.addStatusListener((status) {
-      print(status);
-    });
+    animation.addStatusListener((status) {});
   }
 
   @override
