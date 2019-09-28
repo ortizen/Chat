@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343628447895",
+    "firebase_url": "https://flash-chat-5b5f8.firebaseio.com",
+    "project_id": "flash-chat-5b5f8",
+    "storage_bucket": "flash-chat-5b5f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343628447895:android:4e04eec2ccb80aa4c7e9d2",
+        "android_client_info": {
+          "package_name": "com.eortiz.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343628447895-m0o6jb4mbsp18pbtt8bkbl5llqe5ssn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjPIEW5VaxE8yG9dBF9b7KomFdhhXaSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343628447895-m0o6jb4mbsp18pbtt8bkbl5llqe5ssn8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "343628447895-27rvvfrv52vnvn0217nlc23a744cd05p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eortiz.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
