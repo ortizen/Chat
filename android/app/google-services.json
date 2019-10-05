@@ -30,13 +30,6 @@
             {
               "client_id": "343628447895-m0o6jb4mbsp18pbtt8bkbl5llqe5ssn8.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "343628447895-27rvvfrv52vnvn0217nlc23a744cd05p.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.eortiz.flashChat"
-              }
             }
           ]
         }
